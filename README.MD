@@ -1,5 +1,3 @@
-## Copia WEBAPI v1
-
 ## WEBAPI **NetCore 5**
 
 Repo pruebas de desarollo WEB APi con NETCORE 5
