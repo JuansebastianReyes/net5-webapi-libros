@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-Copia WEBAPI v1
-=======
 ## WEBAPI **NetCore 5**
+
+#Rama WEBAPI v1
 
 Repo pruebas de desarollo WEB APi con NETCORE 5
 # No olvidar 
@@ -15,4 +14,3 @@ Que a la hora de cambiar de maquina y arrancar la DB hay que poner los siguiente
 ```sh
  Update-Database
 ```
->>>>>>> 822344d93fe9f079f6ce86e963438a0ad089d7d9
