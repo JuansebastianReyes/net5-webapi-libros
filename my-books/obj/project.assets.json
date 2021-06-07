@@ -5979,19 +5979,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acer R9JB R3\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acer R9JB R3\\source\\repos\\my-books\\my-books\\my-books.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\proyectos\\Git\\Udemy\\net5-webapi-libros\\my-books\\my-books.csproj",
       "projectName": "my-books",
-      "projectPath": "C:\\Users\\acer R9JB R3\\source\\repos\\my-books\\my-books\\my-books.csproj",
-      "packagesPath": "C:\\Users\\acer R9JB R3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acer R9JB R3\\source\\repos\\my-books\\my-books\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Desktop\\proyectos\\Git\\Udemy\\net5-webapi-libros\\my-books\\my-books.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Desktop\\proyectos\\Git\\Udemy\\net5-webapi-libros\\my-books\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acer R9JB R3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
