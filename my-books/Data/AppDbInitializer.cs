@@ -26,7 +26,6 @@ namespace my_books.Data
                         DateRead = DateTime.Now.AddDays(-10),
                         Rate = 4,
                         Genere = "Realismo mágico",
-                        Author = "Gabriel García Márquez",
                         CoverUrl = "https..", //url de la portada del libro 
                         DareAdded = DateTime.Now,
                     }, new Book()
@@ -35,7 +34,6 @@ namespace my_books.Data
                         Description = "Don Quijote de la Mancha​ es una novela escrita por el español Miguel de Cervantes Saavedra.",
                         IsRead = false,
                         Genere = "Novela",
-                        Author = "Miguel de Cervantes",
                         CoverUrl = "https..", //url de la portada del libro 
                         DareAdded = DateTime.Now,
                     });

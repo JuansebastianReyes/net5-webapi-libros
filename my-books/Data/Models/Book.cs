@@ -14,7 +14,6 @@ namespace my_books.Data.Models
         public DateTime? DateRead { get; set; }
         public int? Rate { get; set; }
         public string Genere { get; set; }
-        public string Author { get; set; }
         public string CoverUrl { get; set; }
         public DateTime DareAdded { get; set; }
 
